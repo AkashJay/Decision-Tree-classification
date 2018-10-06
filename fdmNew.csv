@@ -1,0 +1,1627 @@
+graduateTerm,reportedPost,reportedIntern,offerType,Offer_Status,totalOnCamputRecruit,totalInformationSession,totalConsutlingSession,jobType
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,4,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,4,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,4,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,1,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,9,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,9,POSTG
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),SEEKING_JOB,FALSE,0,0,2,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,6,POSTG
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,1,POSTG
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,2,0,0,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,4,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,12,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,4,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,13,0,0,POSTG
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,3,POSTG
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,3,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,3,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,1,0,0,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SUMMER,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,4,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,10,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,FALSE,0,0,10,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,1,POSTG
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,4,INTERN
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),SEEKING_JOB,FALSE,0,0,4,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,1,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,4,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SUMMER,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,5,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,5,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,2,0,6,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,2,1,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Multiple Job Intentions,Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Multiple Job Intentions,Unreported,OTHER,FALSE,0,0,1,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+FALL,Own Venture,Unreported,OTHER,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,3,POSTG
+FALL,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,5,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,5,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,2,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,1,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,4,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,11,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,5,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,2,0,0,POSTG
+SPRING,Multiple Job Intentions,Unreported,JOB,TRUE,1,0,2,POSTG
+SPRING,Multiple Job Intentions,Unreported,OTHER,FALSE,1,0,2,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,7,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,6,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,1,0,5,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,FALSE,1,0,5,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,5,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,4,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),OTHER,FALSE,0,0,3,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,3,INTERN
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),JOB,TRUE,0,0,3,POSTG
+SPRING,Multiple Job Intentions,Unreported,OTHER,FALSE,0,0,4,POSTG
+SPRING,Multiple Job Intentions,Unreported,JOB,TRUE,0,0,4,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,12,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,11,0,1,POSTG
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SUMMER,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,3,POSTG
+SPRING,Multiple Job Intentions,Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Multiple Job Intentions,Unreported,OTHER,FALSE,0,0,2,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,8,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,1,0,0,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,1,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,1,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,4,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,4,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,4,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,14,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,14,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,14,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,8,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,8,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,8,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),OTHER,FALSE,0,0,2,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),OTHER,FALSE,0,0,2,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,4,POSTG
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,1,0,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,13,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,13,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,13,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,13,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SUMMER,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,4,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,8,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,8,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,12,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,12,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,12,0,1,INTERN
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,5,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,1,0,POSTG
+SUMMER,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,18,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,18,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,18,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,14,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,14,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,1,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,1,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,6,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,6,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,1,0,6,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,2,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,2,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,2,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,2,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,2,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,2,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,2,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,2,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,2,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,2,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,3,3,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,7,INTERN
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,1,0,7,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),JOB,TRUE,1,0,7,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,1,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,3,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,3,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,3,INTERN
+SUMMER,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+FALL,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,3,INTERN
+FALL,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),SEEKING_JOB,FALSE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,5,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,5,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,3,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (No Accepted Offers),INTERN,FALSE,8,0,7,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (No Accepted Offers),JOB,TRUE,8,0,7,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,3,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,5,0,2,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,5,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,5,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,4,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,1,1,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),OTHER,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,2,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,1,0,POSTG
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,3,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,3,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,3,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,3,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,3,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,4,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,4,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,4,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,4,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,3,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,3,0,0,INTERN
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,4,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,1,0,0,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),SEEKING_EDU,FALSE,0,0,4,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,4,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,36,0,4,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,36,0,4,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,4,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,4,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,1,0,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,36,0,2,POSTG
+SPRING,Multiple Job Intentions,Unreported,SEEKING_JOB,FALSE,0,0,5,POSTG
+SPRING,Multiple Job Intentions,Unreported,JOB,TRUE,0,0,5,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,3,POSTG
+SUMMER,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,2,0,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),SEEKING_EDU,FALSE,0,0,3,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,3,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,4,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (No Received Offers),JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (No Received Offers),INTERN,FALSE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (No Received Offers),JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,10,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,0,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,5,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,2,POSTG
+SPRING,Multiple Job Intentions,Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Multiple Job Intentions,Unreported,OTHER,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,6,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,4,0,0,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,3,0,4,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Multiple Job Intentions,Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Multiple Job Intentions,Unreported,CONTINUE_EDU,FALSE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,9,0,2,POSTG
+SPRING,Multiple Job Intentions,Unreported,JOB,TRUE,3,0,1,POSTG
+SPRING,Multiple Job Intentions,Unreported,OTHER,FALSE,3,0,1,POSTG
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,5,0,0,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,3,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Unreported,Unreported,JOB,TRUE,2,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,2,0,0,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,1,1,POSTG
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,1,1,POSTG
+FALL,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,3,POSTG
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,4,0,1,POSTG
+SPRING,Unreported,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Unreported,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Own Venture,Unreported,OTHER,FALSE,0,0,1,POSTG
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,4,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,4,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),OTHER,FALSE,0,0,4,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,3,POSTG
+SUMMER,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SUMMER,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,4,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,4,0,0,POSTG
+SPRING,Not Seeking,Seeking Employment (No Received Offers),INTERN,FALSE,1,0,6,INTERN
+SPRING,Not Seeking,Seeking Employment (No Received Offers),CONTINUE_EDU,FALSE,1,0,6,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,3,0,8,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,1,0,POSTG
+SPRING,Unreported,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Unreported,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Unreported,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Unreported,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Unreported,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),SEEKING_JOB,FALSE,0,0,2,POSTG
+SUMMER,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,1,0,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,20,0,0,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,20,0,0,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,20,0,0,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,20,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,5,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,4,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,4,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,4,POSTG
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,1,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,1,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,5,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,5,0,3,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,5,0,3,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,5,0,3,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,0,0,4,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,4,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,3,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,3,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,3,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,4,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,4,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,3,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,6,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,6,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,6,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,6,INTERN
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,2,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,2,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,2,0,0,INTERN
+SUMMER,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,5,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,6,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,6,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,6,0,1,INTERN
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,4,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,6,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,6,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,1,POSTG
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,3,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,16,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,16,0,3,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,1,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,3,POSTG
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,0,0,2,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SUMMER,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,2,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,1,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),OTHER,FALSE,0,0,2,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,3,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,4,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,4,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,4,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,4,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Multiple Job Intentions,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Multiple Job Intentions,Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Multiple Job Intentions,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,2,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,0,0,3,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,3,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,18,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,18,0,0,INTERN
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),JOB,TRUE,1,0,2,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,2,INTERN
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,2,INTERN
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,2,INTERN
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,1,0,2,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,1,0,2,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),JOB,TRUE,1,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,2,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,1,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,8,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,8,POSTG
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,4,INTERN
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),SEEKING_JOB,FALSE,0,0,4,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,1,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,2,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),OTHER,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,3,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,3,0,3,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,3,0,3,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,4,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,1,0,4,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,1,0,POSTG
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,5,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,6,POSTG
+SPRING,Multiple Job Intentions,Unreported,JOB,TRUE,3,0,1,POSTG
+SPRING,Multiple Job Intentions,Unreported,CONTINUE_EDU,FALSE,3,0,1,POSTG
+SPRING,Multiple Job Intentions,Unreported,CONTINUE_EDU,FALSE,3,0,1,POSTG
+SPRING,Multiple Job Intentions,Unreported,CONTINUE_EDU,FALSE,3,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,1,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,4,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,4,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,4,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,4,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+FALL,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SUMMER,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,1,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,1,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SUMMER,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,5,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,4,POSTG
+FALL,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,1,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,0,0,2,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,7,0,4,POSTG
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Multiple Job Intentions,Unreported,SEEKING_JOB,FALSE,0,0,7,POSTG
+SPRING,Multiple Job Intentions,Unreported,OTHER,FALSE,0,0,7,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),INTERN,TRUE,30,0,1,INTERN
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),INTERN,TRUE,30,0,1,INTERN
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),SEEKING_JOB,FALSE,30,0,1,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),JOB,TRUE,30,0,1,POSTG
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,1,POSTG
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,1,POSTG
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,2,0,0,POSTG
+SPRING,Unreported,Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,3,0,0,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,3,0,0,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,3,0,0,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,4,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,2,0,3,POSTG
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,1,POSTG
+SPRING,Multiple Job Intentions,Unreported,SEEKING_JOB,FALSE,0,0,2,POSTG
+SPRING,Multiple Job Intentions,Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,4,0,4,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,4,0,4,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,2,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,2,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,2,2,INTERN
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,4,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,7,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,0,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,2,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,4,POSTG
+SPRING,Seeking Employment (No Accepted Offers),Unreported,JOB,FALSE,0,0,1,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,0,0,4,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,4,INTERN
+FALL,Not Seeking,Unreported,OTHER,FALSE,0,0,1,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,4,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,4,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,0,0,4,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,0,0,4,POSTG
+SPRING,Multiple Job Intentions,Unreported,CONTINUE_EDU,FALSE,6,0,2,POSTG
+SPRING,Multiple Job Intentions,Unreported,OTHER,FALSE,6,0,2,POSTG
+SPRING,Multiple Job Intentions,Unreported,JOB,TRUE,6,0,2,POSTG
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,1,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,6,0,1,POSTG
+SUMMER,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,1,0,POSTG
+SUMMER,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),SEEKING_JOB,FALSE,0,0,2,POSTG
+SUMMER,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),INTERN,TRUE,8,0,4,INTERN
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,8,0,4,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),JOB,TRUE,8,0,4,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,4,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,4,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,2,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,2,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,2,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Multiple Job Intentions,Unreported,OTHER,FALSE,0,0,1,POSTG
+SPRING,Multiple Job Intentions,Unreported,JOB,TRUE,0,0,1,POSTG
+SUMMER,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,6,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,2,POSTG
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,4,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,4,POSTG
+SPRING,Own Venture,Unreported,OTHER,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,2,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,2,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,7,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,4,POSTG
+SUMMER,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,6,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,2,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,5,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,4,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,9,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,3,0,0,POSTG
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,9,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,9,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,FALSE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,7,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,4,0,0,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),JOB,TRUE,0,3,1,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),INTERN,TRUE,0,3,1,INTERN
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),OTHER,FALSE,0,3,1,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SUMMER,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,8,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,9,0,0,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,9,0,0,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,9,0,0,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,9,0,0,INTERN
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,1,POSTG
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,8,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,3,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,3,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,3,INTERN
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,4,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,3,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,3,0,0,INTERN
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),SEEKING_EDU,FALSE,0,0,12,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,12,INTERN
+FALL,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,4,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SUMMER,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,4,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,7,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,7,0,1,INTERN
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),INTERN,TRUE,4,0,0,INTERN
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,4,0,0,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),JOB,TRUE,4,0,0,POSTG
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,3,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,3,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,3,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,3,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,3,0,3,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,3,0,3,INTERN
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,4,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,1,2,POSTG
+SUMMER,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,3,0,1,POSTG
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),SEEKING_JOB,FALSE,0,0,4,POSTG
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,4,INTERN
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,4,INTERN
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,4,INTERN
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,4,INTERN
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Unreported,Seeking Employment (Accepted Offer),JOB,TRUE,9,0,0,POSTG
+SPRING,Unreported,Seeking Employment (Accepted Offer),INTERN,TRUE,9,0,0,INTERN
+SPRING,Unreported,Seeking Employment (Accepted Offer),INTERN,TRUE,9,0,0,INTERN
+SPRING,Unreported,Seeking Employment (Accepted Offer),INTERN,TRUE,9,0,0,INTERN
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,1,2,POSTG
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,1,2,POSTG
+FALL,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,4,POSTG
+SPRING,Not Seeking,Seeking Employment (No Received Offers),INTERN,FALSE,0,0,3,INTERN
+SPRING,Not Seeking,Seeking Employment (No Received Offers),CONTINUE_EDU,FALSE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,12,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,12,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,12,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,12,0,1,INTERN
+SPRING,Multiple Job Intentions,Unreported,OTHER,FALSE,0,0,3,POSTG
+SPRING,Multiple Job Intentions,Unreported,JOB,TRUE,0,0,3,POSTG
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,6,0,1,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,6,0,1,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,6,0,1,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,6,0,1,INTERN
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,2,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,7,0,5,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,7,0,5,POSTG
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,2,POSTG
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,3,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,3,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,3,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,1,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,1,0,3,POSTG
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,5,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,5,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,5,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,5,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,4,0,0,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),INTERN,TRUE,9,0,1,INTERN
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,9,0,1,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),JOB,TRUE,9,0,1,POSTG
+FALL,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,1,0,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,1,0,3,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,3,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,15,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,15,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,15,0,0,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,2,0,3,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,2,0,3,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,2,0,3,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+FALL,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,4,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,0,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,1,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,4,0,2,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,3,POSTG
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,2,0,2,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,1,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,1,0,5,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,5,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+FALL,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,4,0,0,POSTG
+FALL,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,4,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,2,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,2,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,2,0,1,INTERN
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,1,POSTG
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,2,POSTG
+SPRING,Multiple Job Intentions,Unreported,OTHER,FALSE,0,0,3,POSTG
+SPRING,Multiple Job Intentions,Unreported,JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,1,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,2,0,5,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,6,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,4,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),INTERN,TRUE,4,0,0,INTERN
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,4,0,0,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),JOB,TRUE,4,0,0,POSTG
+SUMMER,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,5,POSTG
+SUMMER,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,5,POSTG
+FALL,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,4,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,4,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,4,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,2,0,1,POSTG
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),INTERN,TRUE,0,1,2,INTERN
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),SEEKING_JOB,FALSE,0,1,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,4,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,2,0,POSTG
+SUMMER,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Multiple Job Intentions,Unreported,JOB,TRUE,8,0,1,POSTG
+SPRING,Multiple Job Intentions,Unreported,CONTINUE_EDU,FALSE,8,0,1,POSTG
+SPRING,Multiple Job Intentions,Unreported,JOB,TRUE,8,0,1,POSTG
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,4,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,4,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,21,0,0,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,4,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,4,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,4,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,4,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,7,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,2,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,3,0,POSTG
+SPRING,Multiple Job Intentions,Unreported,SEEKING_EDU,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,FALSE,3,0,1,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,FALSE,3,0,1,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,3,0,1,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,3,0,1,POSTG
+SPRING,Multiple Job Intentions,Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Multiple Job Intentions,Unreported,OTHER,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,0,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Multiple Job Intentions,Unreported,JOB,TRUE,3,0,0,POSTG
+SPRING,Multiple Job Intentions,Unreported,CONTINUE_EDU,FALSE,3,0,0,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,6,0,3,POSTG
+SPRING,Multiple Job Intentions,Unreported,CONTINUE_EDU,FALSE,1,0,0,POSTG
+SPRING,Multiple Job Intentions,Unreported,JOB,TRUE,1,0,0,POSTG
+SPRING,Not Seeking,Unreported,OTHER,FALSE,1,0,6,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,2,9,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,3,0,2,POSTG
+SUMMER,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,1,0,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,6,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,FALSE,5,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,5,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,4,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,8,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,7,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,4,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Not Seeking,Not Seeking,OTHER,FALSE,0,0,5,INTERN
+SPRING,Not Seeking,Not Seeking,OTHER,FALSE,0,0,5,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,2,POSTG
+SUMMER,Not Seeking,Unreported,CONTINUE_EDU,FALSE,2,0,4,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,4,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,4,0,2,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,4,0,2,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,2,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,7,0,0,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,1,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,3,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,3,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,3,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,3,0,1,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),INTERN,TRUE,8,0,0,INTERN
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,8,0,0,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),INTERN,TRUE,8,0,0,INTERN
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),INTERN,TRUE,8,0,0,INTERN
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),JOB,TRUE,8,0,0,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,3,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Multiple Job Intentions,Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Multiple Job Intentions,Unreported,OTHER,FALSE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,1,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,1,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,1,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,4,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,4,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,4,INTERN
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,4,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,1,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,0,INTERN
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,5,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,5,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,5,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,5,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,5,0,0,INTERN
+FALL,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,0,0,1,POSTG
+FALL,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+FALL,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,0,0,2,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,0,0,3,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,3,INTERN
+FALL,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,2,0,2,POSTG
+FALL,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,2,0,2,INTERN
+FALL,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,2,0,2,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,2,0,0,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,2,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,1,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,5,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,5,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,1,POSTG
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,1,1,POSTG
+SPRING,Not Seeking,Seeking Employment (No Received Offers),INTERN,FALSE,0,0,1,INTERN
+SPRING,Not Seeking,Seeking Employment (No Received Offers),CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,4,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,2,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,3,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,3,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,3,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),OTHER,FALSE,0,0,3,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),OTHER,FALSE,0,0,3,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),OTHER,FALSE,0,0,3,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,3,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,3,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,3,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,3,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,2,POSTG
+SPRING,Multiple Job Intentions,Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Multiple Job Intentions,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,9,0,1,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,9,0,1,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,9,0,1,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,9,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,3,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,3,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,1,0,3,POSTG
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),OTHER,FALSE,0,0,1,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,2,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,1,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,5,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,7,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,4,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,4,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,4,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,4,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,2,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,2,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,2,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,2,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),INTERN,TRUE,6,0,12,INTERN
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),INTERN,TRUE,6,0,12,INTERN
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),SEEKING_JOB,FALSE,6,0,12,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,1,0,0,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,0,INTERN
+FALL,Not Seeking,Unreported,OTHER,FALSE,0,0,1,POSTG
+SPRING,Multiple Job Intentions,Unreported,JOB,TRUE,0,1,0,POSTG
+SPRING,Multiple Job Intentions,Unreported,CONTINUE_EDU,FALSE,0,1,0,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,1,0,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,0,0,3,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,3,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,7,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,7,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,7,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,7,0,2,INTERN
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,1,POSTG
+FALL,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),SEEKING_JOB,FALSE,0,0,2,POSTG
+FALL,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SUMMER,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,5,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,1,0,4,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,4,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,4,INTERN
+SPRING,Unreported,Seeking Employment (Accepted Offer),INTERN,TRUE,13,0,1,INTERN
+SPRING,Unreported,Seeking Employment (Accepted Offer),INTERN,TRUE,13,0,1,INTERN
+SPRING,Unreported,Seeking Employment (Accepted Offer),INTERN,TRUE,13,0,1,INTERN
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,5,0,4,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,5,0,4,INTERN
+FALL,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,2,POSTG
+FALL,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+FALL,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+FALL,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,7,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,7,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,7,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,FALSE,0,2,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,2,1,POSTG
+SPRING,Not Seeking,Seeking Employment (No Received Offers),INTERN,FALSE,1,0,0,INTERN
+SPRING,Not Seeking,Seeking Employment (No Received Offers),CONTINUE_EDU,FALSE,1,0,0,POSTG
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,3,POSTG
+SPRING,Multiple Job Intentions,Unreported,SEEKING_JOB,FALSE,0,0,3,POSTG
+SPRING,Multiple Job Intentions,Unreported,CONTINUE_EDU,FALSE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,1,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,2,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,3,0,0,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,3,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,2,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+FALL,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),INTERN,TRUE,4,0,0,INTERN
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,4,0,0,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),JOB,TRUE,4,0,0,POSTG
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,6,INTERN
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),SEEKING_JOB,FALSE,0,0,6,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,2,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,4,POSTG
+FALL,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,3,POSTG
+FALL,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,2,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,1,0,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,0,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,15,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,9,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,3,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,2,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (No Accepted Offers),JOB,TRUE,21,0,6,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (No Accepted Offers),INTERN,FALSE,21,0,6,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SUMMER,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,5,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,5,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,3,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,2,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,1,0,2,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),INTERN,TRUE,2,0,0,INTERN
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,2,0,0,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),JOB,TRUE,2,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,9,POSTG
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,2,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,5,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,5,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,9,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,39,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,39,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,6,POSTG
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,9,0,0,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,2,0,4,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,6,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,3,0,0,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Multiple Job Intentions,Unreported,OTHER,FALSE,0,0,1,POSTG
+SPRING,Multiple Job Intentions,Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,5,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,1,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,5,0,0,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,2,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),JOB,TRUE,0,0,2,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,4,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,4,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,14,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,14,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,14,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,4,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),OTHER,FALSE,0,0,1,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,4,POSTG
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,2,0,2,POSTG
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,0,POSTG
+SPRING,Multiple Job Intentions,Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Multiple Job Intentions,Unreported,OTHER,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,11,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),OTHER,FALSE,1,0,10,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,10,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,3,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SUMMER,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,4,0,5,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,5,0,0,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,5,0,0,INTERN
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),INTERN,TRUE,4,0,0,INTERN
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,4,0,0,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),INTERN,TRUE,4,0,0,INTERN
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),JOB,TRUE,4,0,0,POSTG
+SPRING,Multiple Job Intentions,Unreported,CONTINUE_EDU,FALSE,0,0,2,POSTG
+SPRING,Multiple Job Intentions,Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Multiple Job Intentions,Unreported,CONTINUE_EDU,FALSE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,4,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,3,POSTG
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,8,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,8,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,8,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,4,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,1,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,4,0,2,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,3,INTERN
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),SEEKING_JOB,FALSE,0,0,3,POSTG
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,1,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,2,POSTG
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,3,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,1,POSTG
+FALL,Seeking Employment (Accepted Offer),Seeking Employment (No Accepted Offers),JOB,TRUE,4,0,5,POSTG
+FALL,Seeking Employment (Accepted Offer),Seeking Employment (No Accepted Offers),INTERN,FALSE,4,0,5,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,4,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,4,POSTG
+SPRING,Not Seeking,Seeking Employment (No Received Offers),INTERN,FALSE,0,0,1,INTERN
+SPRING,Not Seeking,Seeking Employment (No Received Offers),CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,3,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,3,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,3,INTERN
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,3,0,0,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SUMMER,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,5,0,4,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),OTHER,FALSE,0,0,6,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,6,INTERN
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,6,INTERN
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),JOB,TRUE,0,0,6,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,2,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,2,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,7,POSTG
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,2,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,1,0,POSTG
+SPRING,Multiple Job Intentions,Unreported,JOB,TRUE,0,0,3,POSTG
+SPRING,Multiple Job Intentions,Unreported,JOB,TRUE,0,0,3,POSTG
+SPRING,Multiple Job Intentions,Unreported,OTHER,FALSE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,3,POSTG
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+FALL,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,9,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Multiple Job Intentions,Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Multiple Job Intentions,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,3,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,1,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,3,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,3,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,3,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,3,INTERN
+SPRING,Multiple Job Intentions,Unreported,SEEKING_EDU,FALSE,0,3,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,3,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,3,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,3,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,3,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),SEEKING_JOB,FALSE,1,0,1,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),OTHER,FALSE,1,0,1,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,1,INTERN
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,1,INTERN
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,1,INTERN
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,1,0,1,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,2,0,0,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,2,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Multiple Job Intentions,INTERN,TRUE,0,0,5,INTERN
+SPRING,Seeking Employment (Accepted Offer),Multiple Job Intentions,OTHER,FALSE,0,0,5,INTERN
+SPRING,Seeking Employment (Accepted Offer),Multiple Job Intentions,JOB,TRUE,0,0,5,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (No Accepted Offers),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,6,INTERN
+SPRING,Seeking Employment (No Accepted Offers),Seeking Employment (Accepted Offer),JOB,FALSE,0,0,6,POSTG
+SPRING,Seeking Employment (No Accepted Offers),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,6,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,6,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,1,0,POSTG
+SPRING,Multiple Job Intentions,Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Multiple Job Intentions,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SUMMER,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,5,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,2,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,4,0,0,POSTG
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Multiple Job Intentions,Unreported,OTHER,FALSE,0,1,1,POSTG
+SPRING,Multiple Job Intentions,Unreported,JOB,TRUE,0,1,1,POSTG
+SPRING,Own Venture,Unreported,OTHER,FALSE,0,2,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,6,0,4,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,1,POSTG
+SPRING,Multiple Job Intentions,Unreported,OTHER,FALSE,0,1,0,POSTG
+SPRING,Multiple Job Intentions,Unreported,JOB,TRUE,0,1,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,4,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,6,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,1,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,2,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,2,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,4,POSTG
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,1,POSTG
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,2,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,4,POSTG
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,5,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,1,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,3,POSTG
+SPRING,Not Seeking,Not Seeking,CONTINUE_EDU,FALSE,2,0,3,POSTG
+SPRING,Not Seeking,Not Seeking,OTHER,FALSE,2,0,3,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,5,POSTG
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),SEEKING_JOB,FALSE,0,0,3,POSTG
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,3,INTERN
+SUMMER,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Multiple Job Intentions,Unreported,OTHER,FALSE,0,0,2,POSTG
+SPRING,Multiple Job Intentions,Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,0,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,4,POSTG
+SPRING,Multiple Job Intentions,Unreported,JOB,TRUE,2,0,1,POSTG
+SPRING,Multiple Job Intentions,Unreported,CONTINUE_EDU,FALSE,2,0,1,POSTG
+SPRING,Multiple Job Intentions,Unreported,JOB,TRUE,2,0,1,POSTG
+SPRING,Multiple Job Intentions,Unreported,SEEKING_EDU,FALSE,0,0,3,POSTG
+SPRING,Multiple Job Intentions,Unreported,OTHER,FALSE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,2,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,3,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,20,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,2,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,1,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,5,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,3,POSTG
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,2,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,8,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,5,0,0,POSTG
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,4,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,4,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,4,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,4,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,2,POSTG
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,3,INTERN
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,3,INTERN
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,3,INTERN
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),SEEKING_JOB,FALSE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,12,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,12,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,12,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,12,0,1,INTERN
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,4,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,4,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,7,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,7,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,7,0,1,INTERN
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,4,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,7,0,4,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,4,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,3,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,1,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,5,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,1,0,5,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,0,0,5,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,5,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,5,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,5,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,5,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,5,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,5,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,5,0,0,INTERN
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,7,POSTG
+SUMMER,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,0,INTERN
+SUMMER,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,1,0,0,POSTG
+SPRING,Seeking Employment (No Accepted Offers),Unreported,JOB,FALSE,1,0,1,POSTG
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,8,POSTG
+SPRING,Multiple Job Intentions,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Multiple Job Intentions,Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,1,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,3,0,2,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),INTERN,TRUE,3,0,1,INTERN
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,3,0,1,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),JOB,TRUE,3,0,1,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,2,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SUMMER,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,3,0,17,POSTG
+SUMMER,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,5,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),OTHER,FALSE,0,0,3,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,3,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,3,INTERN
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,3,INTERN
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,3,INTERN
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),SEEKING_JOB,FALSE,1,0,3,POSTG
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,1,POSTG
+FALL,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,2,POSTG
+FALL,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+FALL,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,1,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,2,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,2,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Not Seeking,Seeking Employment (No Received Offers),INTERN,FALSE,0,0,2,INTERN
+SPRING,Not Seeking,Seeking Employment (No Received Offers),OTHER,FALSE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,1,0,2,POSTG
+SPRING,Not Seeking,Not Seeking,OTHER,FALSE,0,0,1,POSTG
+SPRING,Not Seeking,Not Seeking,OTHER,FALSE,0,0,1,POSTG
+SPRING,Not Seeking,Not Seeking,OTHER,FALSE,0,0,1,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,2,0,0,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,2,0,0,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,5,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,5,POSTG
+SUMMER,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,1,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,4,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,4,POSTG
+SUMMER,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,4,POSTG
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (No Received Offers),Seeking Employment (Accepted Offer),SEEKING_JOB,FALSE,0,0,1,POSTG
+FALL,Multiple Job Intentions,Unreported,JOB,TRUE,0,0,3,POSTG
+FALL,Multiple Job Intentions,Unreported,OTHER,FALSE,0,0,3,POSTG
+FALL,Multiple Job Intentions,Unreported,JOB,TRUE,0,0,3,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,10,0,0,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,10,0,0,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,10,0,0,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,10,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,2,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,2,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,2,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,2,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+FALL,Not Seeking,Unreported,OTHER,FALSE,0,0,10,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,6,0,3,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,6,0,3,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,6,0,3,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,6,0,3,INTERN
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,6,0,3,INTERN
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,1,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,4,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,4,0,0,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Not Seeking,Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (No Accepted Offers),JOB,TRUE,1,0,6,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (No Accepted Offers),INTERN,FALSE,1,0,6,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,FALSE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,2,INTERN
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,1,5,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,1,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,1,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,3,INTERN
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,9,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),CONTINUE_EDU,FALSE,24,0,0,POSTG
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),INTERN,TRUE,24,0,0,INTERN
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),INTERN,TRUE,24,0,0,INTERN
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),INTERN,TRUE,24,0,0,INTERN
+SPRING,Multiple Job Intentions,Seeking Employment (Accepted Offer),JOB,TRUE,24,0,0,POSTG
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,3,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,3,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,3,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,3,0,0,INTERN
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Not Seeking,Unreported,OTHER,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,0,0,1,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),JOB,TRUE,5,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,5,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,5,0,0,INTERN
+SPRING,Seeking Employment (Accepted Offer),Seeking Employment (Accepted Offer),INTERN,TRUE,5,0,0,INTERN
+SPRING,Multiple Job Intentions,Unreported,SEEKING_EDU,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,1,1,POSTG
+SPRING,Unreported,Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,9,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,3,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,3,POSTG
+FALL,Multiple Job Intentions,Unreported,JOB,TRUE,0,0,3,POSTG
+FALL,Multiple Job Intentions,Unreported,SEEKING_JOB,FALSE,0,0,3,POSTG
+FALL,Multiple Job Intentions,Unreported,OTHER,FALSE,0,0,3,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,2,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SUMMER,Not Seeking,Unreported,CONTINUE_EDU,FALSE,1,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,3,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SUMMER,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,1,0,3,POSTG
+SUMMER,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+FALL,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,2,0,0,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Not Seeking,OTHER,FALSE,0,0,4,INTERN
+SPRING,Seeking Employment (Accepted Offer),Not Seeking,JOB,TRUE,0,0,4,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Multiple Job Intentions,Unreported,OTHER,FALSE,11,0,8,POSTG
+SPRING,Multiple Job Intentions,Unreported,JOB,TRUE,11,0,8,POSTG
+SPRING,Not Seeking,Unreported,CONTINUE_EDU,FALSE,0,0,5,POSTG
+SPRING,Multiple Job Intentions,Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Multiple Job Intentions,Unreported,CONTINUE_EDU,FALSE,0,0,1,POSTG
+SPRING,Own Venture,Unreported,OTHER,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,2,POSTG
+SPRING,Seeking Employment (No Received Offers),Unreported,SEEKING_JOB,FALSE,0,0,1,POSTG
+SPRING,Seeking Employment (Accepted Offer),Unreported,JOB,TRUE,0,0,9,POSTG
